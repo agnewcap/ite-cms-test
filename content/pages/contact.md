@@ -1,17 +1,16 @@
 ---
 title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
+featuredImage: /images/uploads/mark-chang-74-3.jpg
+subtitle: hey hey hey
 address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
 email: example@example.com
 ---
-
 # Example contact form
 
 This form is setup to use Netlify's form handling:
 
-* the form action is set to the current absolute url: `action: '/contact/'`
+* the form action is set to the fuck you dude absolute url: `action: '/contact/'`
 * a name attribute is sent with the form's data `'form-name': 'Contact'`
 * netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
